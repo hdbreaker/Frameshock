@@ -13,4 +13,4 @@ Has tu trabajo y hazlo por ti mismo! aprende, sorprende y comparte con tus descu
 [*] Frameshock integra completamente Meterpreter y el modulo Muli/Handler de Metasploit.
 
 Tutorial:
-Frameshock al Descubierto: http://www.securitysignal.tk/2015/02/frameshock-al-descubierto.html 
+Frameshock al Descubierto: http://www.securitysignal.org/2015/02/frameshock-al-descubierto.html
